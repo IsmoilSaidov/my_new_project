@@ -24,7 +24,7 @@ KnowTheScoreBefore will have the following functions:
 
 ## How is it used?
 
-The AI will gather data of all players of both teams. By considering several parameters such as Fifa indexes of all players, recent hystory of mathces between the given teams, new players and etc. it will give a probsbility predictions of Win or Loose. Also by considering individual skills of Defenders, Forwards and Goalkeepers the program will be able to estimate the score of the game.
+The AI will gather data of all players of both teams. By considering several parameters such as Fifa indexes of all players, recent hystory of mathces between the given teams, new players and etc., it will give a probability prediction of Win or Loose. Also by considering individual skills of Defenders, Forwards and Goalkeepers the program will be able to estimate the score of the game. Good defenders and goalkeepers decrease the probability of conceded goal and good forwards of the opposing team increase this value.
 
 Neural Networks can be used to predict the outcome. The system can be trained with a huge amount of football result's data of football hystory.
 
