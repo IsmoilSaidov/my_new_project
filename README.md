@@ -1,6 +1,3 @@
-# my_new_project
-Building AI course project
-
 # KnowTheScoreBefore
 
 Final project for the Building AI course
@@ -22,23 +19,21 @@ Besides this, the program will be a very good advertisement for Artificial intel
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
-This is how you make a list, if you need one:
+KnowTheScoreBefore will have the following functions:
 * Scientific approach to predicting outcome of the football match
 * Enliven football analysis and debates
 * Encourage and inspire to study AI
-* etc.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The AI will gather data of all players of both teams. By considering several parameters such as Fifa indexes of all players, recent hystory of mathces between the given teams, new players and etc. it will give a probsbility predictions of Win or Loose. Also by considering individual skills of Defenders, Forwards and Goalkeepers the program will be able to estimate the score of the game.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+Neural Networks can be used to predict the outcome. The system can be trained with a huge amount of open football results from football hystory.
+
+Simple code example using NumPy:
 ![football match predictions](/AI.png)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 This is how you create code examples:
 ```
@@ -60,13 +55,10 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
 Due to the huge popularity of football, all the data can be found on various open sources and there is no need to collect it yourself. 
-(https://www.fifaindex.com)
-(https://www.flashscore.com)
+All statistics of each player - their strengths and weaknesses expressed in numerical terms can be taken from [fifaindex.com](https://www.fifaindex.com)
+Hystory of matches between the given teams can be taken from [flashscore.com] (https://www.flashscore.com)
 
 
 | Syntax      | Description |
@@ -76,15 +68,11 @@ Due to the huge popularity of football, all the data can be found on various ope
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
-Obtained predictions are just a possibility. Football is not an exact science and, fortunately for fans, carries an element of unpredictability. 
+Obtained predictions are just a possibility. Football is not an exact science and, fortunately for fans, carries an element of unpredictability. The outcome depends on a large number of different factors, including even the goalkeeper's yesterday's diarrhea. All of them cannot be taken into account. Thus, the programm will never be able to forecast an outcome with 100% probability.
 
 We should take into account that the program can be used for betting purposes, which is highly undesirable.
 
 ## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you need to move on? 
 
 In the future, the program will be able to predict not only football matches but also other sports. 
 
@@ -93,8 +81,4 @@ If we consider business competition as a game between two entrepreneurs, we can 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+  <br>For example: [Football match predictions Designed by Flatstudio](https://naked-science.ru/article/sci/iskusstvennyy-intellekt-predskazal) / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0)
