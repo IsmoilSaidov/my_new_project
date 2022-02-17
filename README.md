@@ -5,7 +5,7 @@ Final project for the Building AI course
 ## Summary
 
 Predicts the outcome of football matches. 
-Even a game as unpredictable as football can be described by a mathematical model and an outcome of the game can be calculated using AI methods!
+Even a game as unpredictable as football can be described by a mathematical model and the outcome of the game can be calculated using AI methods!
 
 
 ## Background
