@@ -34,8 +34,8 @@ Neural Networks can be used to predict the outcome. The system can be trained wi
 ## Data sources and AI methods
 
 Due to the huge popularity of football, all the data can be found on various open sources and there is no need to collect it yourself. 
-All statistics of each player - their strengths and weaknesses expressed in numerical terms can be taken from [www.fifaindex.com](https://www.fifaindex.com)
-Hystory of matches between the given teams can be taken from [www.flashscore.com] (https://www.flashscore.com)
+All statistics of each player - their strengths and weaknesses expressed in numerical gathered can be taken from [www.fifaindex.com](https://www.fifaindex.com)
+Hystory of matches between the given teams can be gathered from [www.flashscore.com](https://www.flashscore.com)
 
 
 ## Challenges
