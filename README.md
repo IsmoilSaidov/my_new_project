@@ -13,7 +13,9 @@ Predicts the outcome of football matches. Even a game as unpredictable as footba
 ## Background
 
 
-Half of the world's population older than 10 years can be more or less attributed to the army of football fans, including both fans and people who sympathize with this game. But the game itself is only half of the story. The rest of the time people spend arguing, analyzing and predicting. A program that makes scientific predictions of the outcome of football matches will certainly not replace the Octopus - predictor, but will be a huge addition to football life off the field.
+Half of the world's population older than 10 years can be more or less attributed to the army of football fans, including both fans and people who sympathize with this game. But the game itself is only half of the story. The rest of the time people spend arguing, analyzing and predicting. 
+
+A program that makes scientific predictions of the outcome of football matches will certainly not replace the Octopus - predictor, but will be a huge addition to football life off the field.
 
 Besides this, the program will be a very good advertisement for Artificial intelligence methods and Programming in general. Seeing correct predictions people will wonder - HOW??. If the forecast is wrong, people will think - What if we add this and this parameter? Then it should work.
 
@@ -21,8 +23,9 @@ Besides this, the program will be a very good advertisement for Artificial intel
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
+* Scientific approach to predicting outcome of the football match
+* Enliven football analysis and debates
+* Encourage and inspire to study AI
 * etc.
 
 
@@ -61,6 +64,11 @@ Where does your data come from? Do you collect it yourself or do you use data co
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
 
+Due to the huge popularity of football, all the data can be found on various open sources and there is no need to collect it yourself. 
+(https://www.fifaindex.com)
+(https://www.flashscore.com)
+
+
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
@@ -70,9 +78,17 @@ If you need to use links, here's an example:
 
 What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
 
+Obtained predictions are just a possibility. Football is not an exact science and, fortunately for fans, carries an element of unpredictability. 
+
+We should take into account that the program can be used for betting purposes, which is highly undesirable.
+
 ## What next?
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you need to move on? 
+
+In the future, the program will be able to predict not only football matches but also other sports. 
+
+If we consider business competition as a game between two entrepreneurs, we can draw parallels with the game of football and transform the program to indicate the steps that will lead to "victory" in business.
 
 
 ## Acknowledgments
